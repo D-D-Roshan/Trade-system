@@ -53,13 +53,6 @@ Key features of the system include:
 
 This system is designed to meet the demands of algorithmic trading by focusing on speed, accuracy, and scalability, making it a suitable solution for real-world financial markets.
 
-### The method
-
-Two Implementaion of the sockets are currently supported. Boost beast implementation and Websocket++ implementation. These implementations in turn can make both sync and async calls to remote api.
-
-Trader supporting various functionalities.
-![image](https://github.com/user-attachments/assets/18eca50e-753e-49dc-b584-435514815546)
-
 
 <!-- RESULTS -->
 ## Results
