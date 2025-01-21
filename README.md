@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-# Trading System
+# Trade system
 A high-performance order execution and management system to trade on [Deribit Test](https://test.deribit.com/).
 
 This Project implement and justify optimization techniques for memory management, network communication, data structure selection, thread management and CPU optimization. It covers all supported symbols and instrument coverage include support for Spot, Future, and Options.
@@ -93,7 +93,7 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 * Clone the repo
   ```bash
-  git clone https://github.com/Talkative-Banana/Trading-System.git
+  git clone https://github.com/D-D-Roshan/Trade-system
   ```
   Make sure you have both Boost Beast and Websocket++ libraries then you can call make by going into directories having Makefile
   ```bash
@@ -128,7 +128,21 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 <!-- CONTACT -->
 ## Contact
-Email ID - lakshay21059@iiitd.ac.in
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-Lakshay Bansal lakshay21059@iiitd.ac.in
+
+<div>
+<a href="https://www.facebook.com/roshan.d.942145">
+<img width="100" height="100" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" target="_blank"/>
+</a> 
+<a href="https://discord.com/invite/M8he9HxQ">
+<img width="100" height="100" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" target="_blank"/>
+</a> 
+<a href="https://www.linkedin.com/in/d-d-roshan">
+<img width="100" height="100" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" target="_blank"/>
+</a>  
+<a href="https://www.instagram.com/d_roshan_official">
+<img width="100" height="100" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" target="_blank"/>
+</a>  
+<a href="https://github.com/D-D-Roshan/D-D-Roshan">
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000" target="_blank"/>
+</a> 
+</div>
